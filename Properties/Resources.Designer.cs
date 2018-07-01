@@ -63,6 +63,16 @@ namespace MyUIToolBox.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap delegateMessageSender {
+            get {
+                object obj = ResourceManager.GetObject("delegateMessageSender", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap tablelayoutgrid {
             get {
                 object obj = ResourceManager.GetObject("tablelayoutgrid", resourceCulture);

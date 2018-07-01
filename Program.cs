@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using MyUIToolBox.AllTheForms;
+using System;
 using System.Windows.Forms;
 
 namespace MyUIToolBox
@@ -16,7 +14,7 @@ namespace MyUIToolBox
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TableLayoutGridForm());
+            Application.Run(new DelegateMessageSenderForm());
         }
     }
 }

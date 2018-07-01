@@ -8,3 +8,4 @@ C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.csproj.
 C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.exe
 C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.pdb
 C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.TableLayoutGridForm.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.DelegateMessageSenderForm.resources
