@@ -1,0 +1,10 @@
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\bin\Debug\MyUIToolBox.exe.config
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\bin\Debug\MyUIToolBox.exe
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\bin\Debug\MyUIToolBox.pdb
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.csprojAssemblyReference.cache
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.Properties.Resources.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.csproj.GenerateResource.cache
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.exe
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.pdb
+C:\Users\Luke\Source\Repos\MyUIToolBox\MyUIToolBox\obj\Debug\MyUIToolBox.TableLayoutGridForm.resources
