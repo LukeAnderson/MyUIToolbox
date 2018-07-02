@@ -20,6 +20,9 @@ namespace MyUIToolBox.AllTheForms
             messageReciever1 = new MessageReciever(messageSender, recieverRichTextBox1);
             messageReciever2 = new MessageReciever(messageSender, recieverRichTextBox2);
             messageReciever3 = new MessageReciever(messageSender, recieverRichTextBox3);
+
+
+           // sideBar1.NumberOfButtons = 2;
         }
     }
 }

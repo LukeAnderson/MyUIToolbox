@@ -45,6 +45,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AllTheForms\Clock_SearchBar_SideBar\Clock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AllTheForms\Clock_SearchBar_SideBar\Clock.Designer.cs">
+      <DependentUpon>Clock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllTheForms\Clock_SearchBar_SideBar\ExampleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllTheForms\Clock_SearchBar_SideBar\ExampleForm.Designer.cs">
+      <DependentUpon>ExampleForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="AllTheForms\DelegateMessageSender\DelegateMessageSenderForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -52,6 +64,18 @@
       <DependentUpon>DelegateMessageSenderForm.cs</DependentUpon>
     </Compile>
     <Compile Include="AllTheForms\DelegateMessageSender\MessageReciever.cs" />
+    <Compile Include="AllTheForms\Clock_SearchBar_SideBar\SearchBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AllTheForms\Clock_SearchBar_SideBar\SearchBar.Designer.cs">
+      <DependentUpon>SearchBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllTheForms\Clock_SearchBar_SideBar\SideBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AllTheForms\Clock_SearchBar_SideBar\SideBar.Designer.cs">
+      <DependentUpon>SideBar.cs</DependentUpon>
+    </Compile>
     <Compile Include="AllTheForms\TableLayoutGrid\TableLayoutGridForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,8 +85,20 @@
     <Compile Include="AllTheForms\DelegateMessageSender\MessageSender.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AllTheForms\Clock_SearchBar_SideBar\Clock.resx">
+      <DependentUpon>Clock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllTheForms\Clock_SearchBar_SideBar\ExampleForm.resx">
+      <DependentUpon>ExampleForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AllTheForms\DelegateMessageSender\DelegateMessageSenderForm.resx">
       <DependentUpon>DelegateMessageSenderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllTheForms\Clock_SearchBar_SideBar\SearchBar.resx">
+      <DependentUpon>SearchBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllTheForms\Clock_SearchBar_SideBar\SideBar.resx">
+      <DependentUpon>SideBar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AllTheForms\TableLayoutGrid\TableLayoutGridForm.resx">
       <DependentUpon>TableLayoutGridForm.cs</DependentUpon>
@@ -96,6 +132,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\delegateMessageSender.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_SearchBar_SideBar_Example.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

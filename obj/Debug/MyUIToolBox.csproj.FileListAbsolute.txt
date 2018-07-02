@@ -20,3 +20,7 @@ C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.csproj.GenerateReso
 C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.csproj.CoreCompileInputs.cache
 C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.exe
 C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.pdb
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.SearchBar.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.Clock.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.SideBar.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.Clock_SearchBar_SideBar.ExampleForm.resources
