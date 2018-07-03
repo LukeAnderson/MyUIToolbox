@@ -40,7 +40,7 @@
             this.sidebarLayoutPanel.Name = "sidebarLayoutPanel";
             this.sidebarLayoutPanel.RowCount = 1;
             this.sidebarLayoutPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.sidebarLayoutPanel.Size = new System.Drawing.Size(277, 534);
+            this.sidebarLayoutPanel.Size = new System.Drawing.Size(160, 413);
             this.sidebarLayoutPanel.TabIndex = 0;
             // 
             // SideBar
@@ -49,7 +49,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.sidebarLayoutPanel);
             this.Name = "SideBar";
-            this.Size = new System.Drawing.Size(277, 534);
+            this.Size = new System.Drawing.Size(160, 413);
             this.ResumeLayout(false);
 
         }

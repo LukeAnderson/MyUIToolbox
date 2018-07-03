@@ -83,6 +83,46 @@ namespace MyUIToolBox.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap radioButtonTableExample1 {
+            get {
+                object obj = ResourceManager.GetObject("radioButtonTableExample1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap radioButtonTableExample2 {
+            get {
+                object obj = ResourceManager.GetObject("radioButtonTableExample2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sideBarPaginationExample1 {
+            get {
+                object obj = ResourceManager.GetObject("sideBarPaginationExample1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sideBarPaginationExample2 {
+            get {
+                object obj = ResourceManager.GetObject("sideBarPaginationExample2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap tablelayoutgrid {
             get {
                 object obj = ResourceManager.GetObject("tablelayoutgrid", resourceCulture);

@@ -14,10 +14,12 @@ namespace MyUIToolBox.AllTheForms
     {
 
         private int numberOfButtons;
+        public List<Button> buttons; 
 
         public SideBar()
         {
             InitializeComponent();
+            buttons = new List<Button>();
         }
 
 
@@ -34,6 +36,7 @@ namespace MyUIToolBox.AllTheForms
         private void OnNumberOfButtonsChanged(int value)
         {
             sidebarLayoutPanel.Controls.Clear();
+            buttons.Clear();
 
             //make rows
             //add the row styles
@@ -46,7 +49,6 @@ namespace MyUIToolBox.AllTheForms
 
             //add buttons
             Button button;
-
             for (int i = 0; i < NumberOfButtons; i++)
             {
 
@@ -54,13 +56,13 @@ namespace MyUIToolBox.AllTheForms
                 {
                     Dock = DockStyle.Fill,
                     BackColor = SystemColors.ButtonFace,
-                    Text = "Button " + sidebarLayoutPanel.Controls.Count.ToString()
+                    Name = sidebarLayoutPanel.Controls.Count.ToString(),
+                    Text = "Button " + i.ToString()
                 };
+                buttons.Add(button);
                 sidebarLayoutPanel.Controls.Add(button);
-
             }
         }
-
 
        
 

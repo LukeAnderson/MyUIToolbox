@@ -24,3 +24,7 @@ C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.SearchB
 C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.Clock.resources
 C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.SideBar.resources
 C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.Clock_SearchBar_SideBar.ExampleForm.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.Clock_SearchBar_SideBar.SideBarPagination.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.RadioButtonTable.RadioButtonTable.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.RadioButtonTable.RadioButtonTableForm.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.SideBarPagination.sideBarPaginationForm.resources

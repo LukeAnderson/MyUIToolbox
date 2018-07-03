@@ -31,6 +31,7 @@
             this.sideBar1 = new MyUIToolBox.AllTheForms.SideBar();
             this.searchBar1 = new MyUIToolBox.AllTheForms.SearchBar();
             this.clock1 = new MyUIToolBox.AllTheForms.Clock();
+            this.sideBarPagination1 = new MyUIToolBox.AllTheForms.Clock_SearchBar_SideBar.SideBarPagination();
             this.SuspendLayout();
             // 
             // sideBar1
@@ -49,7 +50,7 @@
             this.searchBar1.MaximumSize = new System.Drawing.Size(0, 43);
             this.searchBar1.MinimumSize = new System.Drawing.Size(220, 43);
             this.searchBar1.Name = "searchBar1";
-            this.searchBar1.Size = new System.Drawing.Size(576, 43);
+            this.searchBar1.Size = new System.Drawing.Size(220, 43);
             this.searchBar1.TabIndex = 1;
             // 
             // clock1
@@ -61,11 +62,20 @@
             this.clock1.Size = new System.Drawing.Size(110, 22);
             this.clock1.TabIndex = 0;
             // 
+            // sideBarPagination1
+            // 
+            this.sideBarPagination1.Location = new System.Drawing.Point(198, 112);
+            this.sideBarPagination1.Name = "sideBarPagination1";
+            this.sideBarPagination1.NumberOfButtons = 5;
+            this.sideBarPagination1.Size = new System.Drawing.Size(383, 326);
+            this.sideBarPagination1.TabIndex = 3;
+            // 
             // ExampleForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.sideBarPagination1);
             this.Controls.Add(this.sideBar1);
             this.Controls.Add(this.searchBar1);
             this.Controls.Add(this.clock1);
@@ -80,5 +90,6 @@
         private Clock clock1;
         private SearchBar searchBar1;
         private SideBar sideBar1;
+        private SideBarPagination sideBarPagination1;
     }
 }

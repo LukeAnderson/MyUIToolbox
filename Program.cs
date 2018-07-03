@@ -1,4 +1,6 @@
 ﻿using MyUIToolBox.AllTheForms;
+using MyUIToolBox.AllTheForms.Clock_SearchBar_SideBar;
+using MyUIToolBox.AllTheForms.SideBarPagination;
 using System;
 using System.Windows.Forms;
 
@@ -14,7 +16,7 @@ namespace MyUIToolBox
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DelegateMessageSenderForm());
+            Application.Run(new sideBarPaginationForm());
         }
     }
 }

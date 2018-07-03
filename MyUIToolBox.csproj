@@ -57,6 +57,12 @@
     <Compile Include="AllTheForms\Clock_SearchBar_SideBar\ExampleForm.Designer.cs">
       <DependentUpon>ExampleForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="AllTheForms\SideBarPagination\SideBarPagination.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AllTheForms\SideBarPagination\SideBarPagination.Designer.cs">
+      <DependentUpon>SideBarPagination.cs</DependentUpon>
+    </Compile>
     <Compile Include="AllTheForms\DelegateMessageSender\DelegateMessageSenderForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +82,24 @@
     <Compile Include="AllTheForms\Clock_SearchBar_SideBar\SideBar.Designer.cs">
       <DependentUpon>SideBar.cs</DependentUpon>
     </Compile>
+    <Compile Include="AllTheForms\RadioButtonTable\RadioButtonTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AllTheForms\RadioButtonTable\RadioButtonTable.Designer.cs">
+      <DependentUpon>RadioButtonTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllTheForms\RadioButtonTable\RadioButtonTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllTheForms\RadioButtonTable\RadioButtonTableForm.Designer.cs">
+      <DependentUpon>RadioButtonTableForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllTheForms\SideBarPagination\sideBarPaginationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllTheForms\SideBarPagination\sideBarPaginationForm.Designer.cs">
+      <DependentUpon>sideBarPaginationForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="AllTheForms\TableLayoutGrid\TableLayoutGridForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,6 +115,9 @@
     <EmbeddedResource Include="AllTheForms\Clock_SearchBar_SideBar\ExampleForm.resx">
       <DependentUpon>ExampleForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AllTheForms\SideBarPagination\SideBarPagination.resx">
+      <DependentUpon>SideBarPagination.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AllTheForms\DelegateMessageSender\DelegateMessageSenderForm.resx">
       <DependentUpon>DelegateMessageSenderForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -99,6 +126,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AllTheForms\Clock_SearchBar_SideBar\SideBar.resx">
       <DependentUpon>SideBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllTheForms\RadioButtonTable\RadioButtonTable.resx">
+      <DependentUpon>RadioButtonTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllTheForms\RadioButtonTable\RadioButtonTableForm.resx">
+      <DependentUpon>RadioButtonTableForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllTheForms\SideBarPagination\sideBarPaginationForm.resx">
+      <DependentUpon>sideBarPaginationForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AllTheForms\TableLayoutGrid\TableLayoutGridForm.resx">
       <DependentUpon>TableLayoutGridForm.cs</DependentUpon>
@@ -135,6 +171,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Clock_SearchBar_SideBar_Example.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sideBarPaginationExample1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sideBarPaginationExample2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\radioButtonTableExample1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\radioButtonTableExample2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
