@@ -69,11 +69,6 @@ namespace MyUIToolBox.AllTheForms.Clock_SearchBar_SideBar
             }
 
 
-
-
-
-
-
         }
 
         private void sideButtonClicked(object sender, EventArgs e)

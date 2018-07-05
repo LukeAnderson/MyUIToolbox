@@ -1,6 +1,7 @@
 ﻿using MyUIToolBox.AllTheForms;
 using MyUIToolBox.AllTheForms.Clock_SearchBar_SideBar;
 using MyUIToolBox.AllTheForms.SideBarPagination;
+using MyUIToolBox.AllTheForms.WebBrowserPlus;
 using System;
 using System.Windows.Forms;
 
@@ -16,7 +17,7 @@ namespace MyUIToolBox
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new sideBarPaginationForm());
+            Application.Run(new WebBrowserPlusForm());
         }
     }
 }

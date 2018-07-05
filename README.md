@@ -33,10 +33,16 @@ click button 2  and a blue panel appears.
 easily get what is checked by calling RadioButton rb = radioButtonTable.GetChecked();
 
 Example:
-after changing the number of buttons property to 5.
+after changing the number of buttons property to 5:
 
 ![radioButtonTableExample1.png](https://github.com/LukeAnderson/MyUIToolbox/raw/master/Resources/radioButtonTableExample1.png)
 
-after changing other properties
+after changing other properties:
 
 ![radioButtonTableExample2.png](https://github.com/LukeAnderson/MyUIToolbox/raw/master/Resources/radioButtonTableExample2.png)
+
+**WebBrowserPlus:**
+
+my WebBrowser user control.
+
+![webBrowserPlusExample.png](https://github.com/LukeAnderson/MyUIToolbox/raw/master/Resources/webBrowserPlusExample.png)

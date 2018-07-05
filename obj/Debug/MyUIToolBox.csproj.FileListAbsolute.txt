@@ -28,3 +28,5 @@ C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.Clock_S
 C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.RadioButtonTable.RadioButtonTable.resources
 C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.RadioButtonTable.RadioButtonTableForm.resources
 C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.SideBarPagination.sideBarPaginationForm.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.WebBrowserPlus.WebBrowserPlus.resources
+C:\Users\Luke\Source\Repos\MyUIToolBox\obj\Debug\MyUIToolBox.AllTheForms.WebBrowserPlus.WebBrowserPlusForm.resources
